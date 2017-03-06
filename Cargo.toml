@@ -1,0 +1,9 @@
+[package]
+name = "blokus-ai"
+version = "0.1.0"
+authors = ["Undo-all <undoall2@gmail.com>"]
+
+[dependencies]
+rand = "*"
+time = "*"
+
